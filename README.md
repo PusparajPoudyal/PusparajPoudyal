@@ -1,16 +1,17 @@
-### Hi there 👋
+Hi there, I'm Puspa Raj Poudyal 👋
+👀 I’m interested in innovation and change
+💞️ I’m looking to collaborate on backend development projects
 
-<!--
-**PusparajPoudyal/PusparajPoudyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📫 Reach me at: haripoudyal4@gmail.com
+🌐 LinkedIn: https://www.linkedin.com/in/puspa-raj-poudyal-24b406121
 
-Here are some ideas to get you started:
+🔧 Technologies & Tools
+Backend Development: PHP, Laravel
+Frontend: HTML, CSS, JavaScript
+Database: MySQL, PostgreSQL
+Version Control: Git
+OS: Linux, Windows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Let's Connect!
+Feel free to reach out if you're interested in collaborating on exciting projects or discussing tech!
+
