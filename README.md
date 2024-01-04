@@ -8,7 +8,7 @@
 
 #### 🔧 Technologies & Tools
 
-- **Backend Development:** PHP, Laravel
+- **Backend Development:** PHP, Laravel, Wordpress, CodeIgniter
 - **Frontend:** HTML, CSS, JavaScript
 - **Database:** MySQL, PostgreSQL
 - **Version Control:** Git
